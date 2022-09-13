@@ -1,0 +1,26 @@
+Weight is just the amount of gravitational force you feel from the planet you’re standing on. Since Mercury has only 40% the gravity that Earth has, you would only weigh 40% of your normal weight on Mercury. You can calculate the Mercury weight by multiplying the Earth weight by 0.4. For Venus, multiply the Earth weight by 0.9. For Jupiter, multiply the Earth weight by 2.5 For Saturn, multiply the Earth weight by 1.1.
+
+For you to do:
+
+1. Ask the user for their weight on Earth. (2 points)
+
+2. Tell the user their weight on Mercury, Venus, Jupiter, and Saturn. (8 points)
+
+3. Tell the user the average of their weights on Earth, Mercury, Venus, Jupiter, and Saturn. (2 points)
+
+Sample Run:
+
+Please enter the Earth weight.
+
+>220
+
+Mercury: 88
+
+Venus: 198
+
+Jupiter: 550
+
+Saturn: 242
+
+Average Weight: 259.6
+

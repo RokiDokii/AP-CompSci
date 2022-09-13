@@ -1,0 +1,35 @@
+Your club basketball has had 5 games so far. Your teammates are math-minded and they want to know their average free-throws so far. Also, you want to give them an odd extra bit of information, which is telling them whether their average, truncated to an integer, is even or odd.
+
+To do:
+
+1. Ask the user for the number of free throws for the last five games. You must use 5 prompts for this, and the numbers must be saved as integers. (6 points)
+
+2. Calculate the average free throws between these games, and display this number as an accurate decimal. (2 points)
+
+3. Convert the average to an integer, and print a 1 if this integer is odd or a 0 if this integer is even. (2 points)
+
+Sample Run
+
+Hello! How many free throws did you make in game 1?
+
+>7
+
+How about in game 2?
+
+>3
+
+In game 3?
+
+>10
+
+In game 4?
+
+>9
+
+In game 5?
+
+>2
+
+Wow! Your average number of free throws is 4.2!
+
+As an integer, the average is 4. Printing 0 for even, and 1 for odd: 0

@@ -1,0 +1,17 @@
+For you to do:
+
+1. Ask the user their name and age as shown below in the ‘Sample Run’.
+
+2. Print out the user’s information in a sentence as shown below.
+
+Sample Run:
+
+Hi there. What is your name?
+
+>Pascal
+
+Hi Pascal. How old are you?
+
+>16
+
+Pascal is 16 years old.

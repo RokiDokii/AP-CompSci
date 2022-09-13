@@ -1,0 +1,13 @@
+Every 3-digit number has a ones-place, tens-place, and hundreds-place. For this program, you should ask the user for a 3-digit number (2 points). Then print the ones-place, tens-place, and hundreds-place all on separate lines (6 points).
+
+Sample Run:
+
+Please enter a 3-digit number.
+
+>827
+
+7
+
+2
+
+8

@@ -1,0 +1,17 @@
+1 interactive block
+DUE DATE
+No due date
+Unlimited Submissions
+This program includes the Account class that was created during lecture. For this assignment, you will use this class to perform several tasks.
+
+1. Create two Account objects, with variable names account1 and account2. Create account1 with the default constructor, and account2 with the parameter constructor. (4 points)
+
+2. Print the balance of each account to the screen. (2 points)
+
+3. Change the name for the account1 object. (2 points)
+
+4. Deposit 250 dollars into account1, and withdrawal 50 dollars from account2. (4 points)
+
+5. Improve the credit for account2, setting goodCredit to true. (2 points)
+
+6. Print out the complete account info for both accounts. (2 points)
