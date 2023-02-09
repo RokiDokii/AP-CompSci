@@ -1,6 +1,0 @@
-firstPairX = int(input("Please enter your first X coordinate: "))
-firstPairY = int(input("Please enter your first Y coordinate: "))
-secondPairX = int(input("Please enter your second X coordinate: "))
-secondPairY = int(input("Please enter your second Y coordinate: "))
-print("Distance between X and Y values: \nFirst pair: " + str(abs(firstPairX-firstPairY)) + "\nSecond pair: " + str(abs(secondPairX-secondPairY)))
-print("Distance between the points: " + str((pow((secondPairX-firstPairX), 2)) + pow((secondPairY-firstPairY),2)))
