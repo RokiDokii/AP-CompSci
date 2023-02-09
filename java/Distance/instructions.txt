@@ -1,0 +1,5 @@
+In this program, you will use methods of the Math class to determine some distances given two points.
+1. Ask the user for two coordinate pairs. This should be done with 4 separate prompts and 4 separate variables (which can be decimals). Make sure the user knows whether they are inputting x or y, and make sure they know which point their inputting for. (4 points)
+2. Tell the user the distance between their x-values and the distance between their y-values. Make sure these are positive. (2 points)
+3. Using the distance formula, Tell the user the distance between their two points. (4 points)
+(Total: 10 points)
